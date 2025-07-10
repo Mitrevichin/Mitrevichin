@@ -1,24 +1,28 @@
 # 👋 Hi, I’m Petar
 
-I’m a passionate front-end developer with a background in economics and management, now fully focused on building modern, responsive web applications.
-
 ## 🚀 What I'm working on:
 - Strengthening my skills in **JavaScript**, **React**, and **CSS**
 - Building full projects from scratch to deepen my understanding of the **MERN stack (MongoDB, Express, React, Node.js)**
 - Improving UI/UX design and working with RESTful APIs
 
-## 🔧 Tech Stack:
-- 🌐 HTML, CSS, JavaScript (ES6+)
-- ⚛️ React & React Router
-- 🎨 Tailwind CSS & basic Sass
-- 🗂 Git & GitHub
-- 🔄 Working with JSON and APIs
-- 🧠 Currently exploring Node.js and Express for backend development
+## 💻 Technologies & Tools
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, Sass
+- **Frameworks/Libraries:** React, React Router
+- **Styling:** Tailwind CSS, CSS Modules
+- **Version Control:** Git, GitHub
+- **Backend (learning):** Node.js, Express.js, MongoDB (MERN stack basics)
+- **APIs:** RESTful API integration, Fetch API, JSON handling
+
+  ## 🚀 Current Focus
+- Developing projects using React and improving component-based architecture skills
+- Learning backend development with Node.js and Express to build full-stack MERN applications
+- Practicing responsive design and cross-browser compatibility
 
 
 ## 🎯 Goals
-- Become a confident **full-stack JavaScript developer**
-- Join a professional development team where I can continue learning, contribute to real-world projects, and grow fast
+- Master full-stack JavaScript development with MERN stack
+- Build scalable and maintainable web applications
+- Gain professional experience in software development teams
 
 
 
